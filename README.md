@@ -1,4 +1,4 @@
 # Stone_Paper_Scissor
 The name of this game is Stone Paper Scissor.
-This is Mainly 2 player game.
-Here one player is a computer and the other one is  the user.
+This is a two-player game.
+Here one player is the computer and the other one is  the user.
